@@ -1,3 +1,5 @@
+// liadi.haim@gmail.com
+
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include <iostream>
 #include "Graph.hpp"

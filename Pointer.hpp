@@ -1,3 +1,5 @@
+// liadi.haim@gmail.com
+
 #ifndef pointH
 #define pointH
 #include <string>

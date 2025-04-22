@@ -1,3 +1,5 @@
+#liadi.haim@gmail.com
+
 CXX = clang++
 CXXFLAGS = -std=c++2a -Wall -Wextra -g
 

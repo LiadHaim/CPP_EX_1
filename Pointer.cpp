@@ -1,3 +1,5 @@
+// liadi.haim@gmail.com
+
 #include <iostream>
 #include "Pointer.hpp"
 namespace graph {
